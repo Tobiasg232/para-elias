@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Un artista que me gusta</title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body>
+		<h1>Bad Bunny</h1>
+		<h2> Biografía </h2>
+		<p> Benito Antonio Martínez Ocasio, más conocido por su nombre artístico Bad Bunny, es un rapero, cantante y compositor puertorriqueño. Su estilo de música es generalmente definido como trap latino y reggaeton, pero también incorporó otros géneros como rock, bachata y souls </p>
+
+		<a href="https://es.wikipedia.org/wiki/Bad_Bunny"> Clickea aqui para leer mas </a>
+
+		<h5>ALBUM:EL ÚLTIMO TOUR DEL MUNDO</h5>
+
+		<ul>
+			<li> 
+				<iframe src="https://open.spotify.com/embed/track/2XIc1pqjXV3Cr2BQUGNBck" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+			</li>
+			<li>
+				<iframe src="https://open.spotify.com/embed/track/4MzXwWMhyBbmu6hOcLVD49" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+			<li>
+				<iframe src="https://open.spotify.com/embed/track/3KJ3opyV29269SXkPrc19l" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+			</li>
+			<li>
+				<iframe src="https://open.spotify.com/embed/track/0tjZv2hChdHZCW1zFXpy1J" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+			</li>
+			<li> <iframe src="https://open.spotify.com/embed/track/5RubKOuDoPn5Kj5TLVxSxY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+			</li>
+			<li> <iframe src="https://open.spotify.com/embed/track/36DHxTW2xdr9GG15T9oK9L" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+			</li>
+			<h6> GALERIA </h6>
+		<div class="contenedor">
+
+			<div class="gridItem"><img src="galeria1.jpg"alt="FOTO"></div>
+			<div class="gridItem"><img src="galeria2.jpg"alt="FOTO"></div>
+			<div class="gridItem"><img src="galeria3.jpg"alt="FOTO"></div>
+			<div class="gridItem"><img src="galeria4.jpg"alt="FOTO"></div>
+			<div class="gridItem"><img src="galeria5.jpg"alt="FOTO"></div>
+			<div class="griditem"><img src="galeria6.jpg"alt="FOTO"></div>
+					</div>
+		
+		<img src="bdbn.png">
+	
+	</body>
+
+</html>
